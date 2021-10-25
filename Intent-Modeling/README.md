@@ -1,8 +1,8 @@
 
 # Code logic
 
-The starting point of the code is main.py file. However, please note that the user data is not available in this repository.
-Please refer to DataLoader.py, DataProjector.py, and UserModelCoupled.py as the main recommendation system components.
+The starting point of the code is lab/main.py file. However, please note that the user data is not available in this repository.
+Please refer to lab/DataLoader.py, lab/DataProjector.py, and lab/UserModelCoupled.py as the main recommendation system components.
 
  main.py controls the following process:
  
